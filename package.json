@@ -1,6 +1,6 @@
 {
   "name": "react-fo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "这是一个佛系的React框架",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/popo1221/react-fo/issues"
   },
-  "homepage": "https://github.com/popo1221/react-fo#readme"
+  "homepage": "https://github.com/popo1221/react-fo#readme",
+  "dependencies": {
+    "react": "*"
+  }
 }
