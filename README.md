@@ -3,5 +3,7 @@
 1. 它是一个React框架
 2. 处处不坚持，事事随大流
 
-
+This is a React framework for the Buddha Department. It only has two principles:∏
+1. It is a React framework
+2. Do not insist everywhere, everything follows the trend
 
