@@ -1,0 +1,23 @@
+{
+  "name": "react-fo",
+  "version": "0.0.1",
+  "description": "这是一个佛系的React框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/popo1221/react-fo.git"
+  },
+  "keywords": [
+    "react",
+    "react-fo"
+  ],
+  "author": "popo1221",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/popo1221/react-fo/issues"
+  },
+  "homepage": "https://github.com/popo1221/react-fo#readme"
+}
