@@ -20,7 +20,7 @@
     "url": "https://github.com/popo1221/react-fo/issues"
   },
   "homepage": "https://github.com/popo1221/react-fo#readme",
-  "dependencies": {
+  "peerDependencies": {
     "react": "*"
   }
 }
